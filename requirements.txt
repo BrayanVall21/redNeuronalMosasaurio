@@ -3,3 +3,5 @@ opencv-python-headless
 torch
 numpy
 pandas
+matplotlib
+scikit-learn
